@@ -1,7 +1,3 @@
 {
-   "authorized_keys": [
-     "BRANCH-본사",
-     "BRANCH-강남점",
-     "BRANCH-홍대점"
-   ]
+   "authorized_keys": ["BRANCH-본사"]
 }
